@@ -1,7 +1,16 @@
-# Vue 3 + Vite
+<p>
+ <h1 align="center">可视化数据大屏</h1>
+</p>
+<br/>
+<p align="center">
+  <a href="https://npmjs.com/package/vite"><img src="https://img.shields.io/npm/v/vite.svg" alt="npm package"></a>
+  <a href="https://nodejs.org/en/about/releases/"><img src="https://img.shields.io/node/v/vite.svg" alt="node compatibility"></a>
+  <a href=""><img src="https://img.shields.io/badge/vite-%5E4.1.0-orange" alt="vite"></a>
+  <a href=""><img src="https://img.shields.io/badge/echart-%5E5.0.0-blue" alt="vite"></a>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+</p>
+<br/>
 
-## Recommended IDE Setup
+# Vite-EchartApp ⚡
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+> vue3 数据化大屏的演示项目
