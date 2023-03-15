@@ -11,7 +11,10 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
-
+@font-face {
+  font-family: 'electronicFont';
+  src: url('./assets/font/DS-DIGIT.TTF');
+}
 html,
 body {
   height: 100%;
@@ -22,4 +25,18 @@ body {
   background: url('./assets/images/bg.jpg') no-repeat center;
   background-size: 100% 100%;
   line-height: 1.15;
+  overflow: hidden;
+  min-height: 8.75rem;
+}
+
+/* 约束屏幕尺寸 */
+/* @media screen and (max-width: 1024px) {
+  html {
+    font-size: 42px !important;
+  }
+} */
+@media screen and (min-width: 1920px) {
+  html {
+    font-size: 192px !important;
+  }
 }

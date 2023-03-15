@@ -13,24 +13,24 @@ const { nowTime } = getNowTime()
 
 <style lang="scss" scoped>
 .header {
-  height: 1.25rem;
+  height: 0.5208rem;
   width: 100%;
   background: url('@/assets/images/head_bg.png') no-repeat center;
   background-size: 100%;
   h1 {
-    font-size: 0.475rem;
+    font-size: 0.1979rem;
     color: #fff;
     text-align: center;
-    line-height: 1.125rem;
+    line-height: 0.4167rem;
   }
   .time {
     position: absolute;
     color: #fff;
     right: 0.25rem;
-    line-height: 0.5rem;
-    top: 0.25rem;
+    // line-height: 0.0833rem;
+    top: 0.125rem;
     color: rgba(255, 255, 255, 0.7);
-    font-size: 0.25rem;
+    font-size: 0.0833rem;
   }
 }
 </style>

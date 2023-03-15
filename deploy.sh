@@ -17,7 +17,7 @@ cd dist
 git init
 git checkout -b main
 git add -A
-git commit -m '头部初始化'
+git commit -m '数字动画效果'
 
 # 部署到 https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
